@@ -1,0 +1,14 @@
+{
+    "DISCORD_TOKEN": "", 
+    "LICENSE_KEY": "",
+    "GUILD_ID": "",
+    "LICENSE_SERVER_URL": "https://lc-unah.onrender.com",
+    "OPEN_TICKETS_CATEGORY": "🎫 AÇIK TICKETLER",
+    "CLOSED_TICKETS_CATEGORY": "🔒 KAPALI TICKETLER",
+    "SUPPORT_ROLE_ID": "",
+    "TICKET_TYPES": {
+        "general": {"emoji": "🔧", "name": "Genel Destek", "description": "Genel sorularınız için"},
+        "technical": {"emoji": "💻", "name": "Teknik Destek", "description": "Teknik problemleriniz için"},
+        "complaint": {"emoji": "📢", "name": "Şikayet", "description": "Şikayetleriniz için"}
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "Lisans korumalı Discord Ticket Bot",
+  "main": "ticket_bot.js",
+  "scripts": {
+    "start": "node ticket_bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.2"
+  }
+}
